@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/ten-cong-cu-ho-tro/",
+  base: "/cong-cu-ho-tro/",
 });
